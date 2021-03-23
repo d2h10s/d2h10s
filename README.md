@@ -2,8 +2,8 @@
   d2h10s's GitHub
 </h1>
 <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d2h10s&langs_count=10&exclude_repo=codubot_sample&hide=tex,html,javascript,css,scss&theme=radical"></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=d2h10s&count_private=true&theme=radical&show_icons=true&line_height=30"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d2h10s&langs_count=10&exclude_repo=codubot_sample&hide=tex,html,javascript,css,scss"></a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/github/followers/d2h10s?style=social">
