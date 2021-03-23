@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/followers/d2h10s?style=social">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fd2h10s&count_bg=%23D93A7C&title_bg=%23141321&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"></a>
   <a href="https://www.youtube.com/channel/UCrCuBAFLYp71GHzOWqGeUUQ/"><img src="http://img.shields.io/badge/-YouTube-FF0000?style=plastic&logo=YouTube"></a>
-  <a href="https://www.acmicpc.net/user/d2h10s"><img src="http://img.shields.io/badge/-Baekjoon-FF0000?style=plastic"></a>
+  <a href="https://www.acmicpc.net/user/d2h10s"><img src="http://img.shields.io/badge/-Baekjoon-0076C0?style=plastic"></a>
 </p>
 
 <h1 align="center">
