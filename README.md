@@ -29,7 +29,6 @@
   <img src="http://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white">
   <br>
   <!--툴 스택-->
-  <img src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
   <img src="http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
   <img src="http://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ROS&logoColor=white">
   <img src="http://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
@@ -43,7 +42,8 @@
   <img src="http://img.shields.io/badge/-Nucleo-111111?style=flat-square&logo=Nucleo&logoColor=white">
   <img src="http://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-pi&logoColor=white">
   <br>
-  <!--설계 스택-->
+  <!--설계 스택
   <img src="http://img.shields.io/badge/-AutoDesk-0696D7?style=flat-square&logo=autodesk&logoColor=white">
   <img src="http://img.shields.io/badge/-Drone-212121?style=flat-square&logo=drone&logoColor=white">
+  -->
 </p>
