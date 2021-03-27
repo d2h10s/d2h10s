@@ -33,6 +33,9 @@
   <img src="http://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ROS&logoColor=white">
   <img src="http://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img src="http://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
+  <br>
+  <!--프레임워크 스택-->
+  <img src="http://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
   <img src="http://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
   <img src="http://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
   <br>
