@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=d2h10s&count_private=true&theme=radical&show_icons=true&line_height=28"></a>
 <!--깃허브 사용 언어 랭킹 카드-->
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d2h10s&langs_count=10&exclude_repo=codubot_sample&hide=tex,html,javascript,css,scss&theme=radical&layout=compact"></a><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d2h10s&langs_count=10&exclude_repo=swing_robot&hide=tex,html,javascript,css,scss,PureBasic&theme=radical&layout=compact"></a><br>
 <!--트로피 카드-->
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d2h10s&theme=dracula&margin-w=10&no-frame=true"><br>
 <!--팔로워, 깃허브, 유튭, 백준 링크-->
