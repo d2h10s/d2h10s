@@ -4,18 +4,42 @@
 </h1>
 <!--깃허브 상태 카드-->
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=d2h10s&count_private=true&theme=radical&show_icons=true&line_height=28" style="float: left; width: 56%;"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=d2h10s&count_private=true&theme=radical&show_icons=true&line_height=28" style="float: left; width: 49%;">
+  </a>
 <!--깃허브 사용 언어 랭킹 카드-->
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d2h10s&langs_count=10&exclude_repo=swing_robot&hide=tex,html,javascript,css,scss,PureBasic&theme=radical&layout=compact" style="float: left; width: 39%;"></a><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d2h10s&langs_count=10&exclude_repo=swing_robot&hide=tex,html,javascript,css,scss,PureBasic,Jupyter Notebook&theme=radical&layout=compact" style="float: left; width: 39%;">
+  </a><br>
+<!--백준 카드-->
+  <a href="https://solved.ac/profile/d2h10s">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=d2h10s" style="float: left; width: 39%;">
+  </a>
 <!--깃허브 스트릭 카드-->
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=d2h10s&theme=dark" style="float: left; width: 52%;"></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=d2h10s&theme=dark" style="float: left; width: 49%;">
+  </a><br>
 <!--트로피 카드-->
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d2h10s&theme=dracula&margin-w=10&no-frame=true&row=2&column=4" style="float: left; width: 44%;"><br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=d2h10s&theme=dracula&margin-w=10&margin-h=10&no-frame=true&row=2&column=4" style="float: center; width: 60%;">
+  </a><br>
 <!--팔로워, 깃허브, 유튭, 백준 링크-->
   <img src="https://img.shields.io/github/followers/d2h10s?style=social">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fd2h10s&count_bg=%23D93A7C&title_bg=%23141321&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"></a>
-  <a href="https://www.youtube.com/channel/UCrCuBAFLYp71GHzOWqGeUUQ/"><img src="http://img.shields.io/badge/-YouTube-FF0000?style=plastic&logo=YouTube"></a>
-  <a href="https://www.acmicpc.net/user/d2h10s"><img src="http://img.shields.io/badge/-Baekjoon-0076C0?style=plastic"></a>
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fd2h10s&count_bg=%23D93A7C&title_bg=%23141321&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false">
+  </a>
+  <a href="https://www.youtube.com/channel/UCrCuBAFLYp71GHzOWqGeUUQ/">
+    <img src="http://img.shields.io/badge/-YouTube-FF0000?style=plastic&logo=YouTube">
+  </a>
+  <a href="https://www.acmicpc.net/user/d2h10s">
+    <img src="http://img.shields.io/badge/-Baekjoon-0076C0?style=plastic">
+  </a><br>
+<!--Waka Time-->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=d2h10s">
+  </a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </p>
 <br><br>
 <h1 align="center">
