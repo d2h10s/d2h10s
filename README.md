@@ -1,11 +1,13 @@
+
 <h1 align="center">
   d2h10s's GitHub
 </h1>
 <!--깃허브 상태 카드-->
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=d2h10s&count_private=true&theme=radical&show_icons=true&line_height=28"></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=d2h10s&theme=dark"></a></br>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=d2h10s&count_private=true&theme=radical&show_icons=true&line_height=28" style="float: left; width: 56%;"></a>
 <!--깃허브 사용 언어 랭킹 카드-->
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d2h10s&langs_count=10&exclude_repo=swing_robot&hide=tex,html,javascript,css,scss,PureBasic&theme=radical&layout=compact"></a><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d2h10s&langs_count=10&exclude_repo=swing_robot&hide=tex,html,javascript,css,scss,PureBasic&theme=radical&layout=compact" style="float: left; width: 39%;"></a><br>
 <!--트로피 카드-->
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d2h10s&theme=dracula&margin-w=10&no-frame=true"><br>
 <!--팔로워, 깃허브, 유튭, 백준 링크-->
@@ -27,24 +29,24 @@
   <img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="http://img.shields.io/badge/-MathWorks-0076A8?style=flat-square&logo=mathworks&logoColor=white">
   <img src="http://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white">
-  <br>
+  <br><br>
   <!--툴 스택-->
   <img src="http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
   <img src="http://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ROS&logoColor=white">
   <img src="http://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img src="http://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
-  <br>
+  <br><br>
   <!--프레임워크 스택-->
   <img src="http://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
   <img src="http://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
   <img src="http://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-  <br>
+  <br><br>
   <!--임베디드 스택-->
   <img src="http://img.shields.io/badge/-AVR-DD1111?style=flat-square">
   <img src="http://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
-  <img src="http://img.shields.io/badge/-Nucleo-111111?style=flat-square&logo=Nucleo&logoColor=white">
+  <img src="http://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white">
   <img src="http://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-pi&logoColor=white">
-  <br>
+  <br><br>
   <!--설계 스택
   <img src="http://img.shields.io/badge/-AutoDesk-0696D7?style=flat-square&logo=autodesk&logoColor=white">
   <img src="http://img.shields.io/badge/-Drone-212121?style=flat-square&logo=drone&logoColor=white">
