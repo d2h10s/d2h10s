@@ -4,19 +4,20 @@
 </h1>
 <!--깃허브 상태 카드-->
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=d2h10s&theme=dark"></a></br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=d2h10s&count_private=true&theme=radical&show_icons=true&line_height=28" style="float: left; width: 56%;"></a>
 <!--깃허브 사용 언어 랭킹 카드-->
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d2h10s&langs_count=10&exclude_repo=swing_robot&hide=tex,html,javascript,css,scss,PureBasic&theme=radical&layout=compact" style="float: left; width: 39%;"></a><br>
+<!--깃허브 스트릭 카드-->
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=d2h10s&theme=dark" style="float: left; width: 52%;"></a>
 <!--트로피 카드-->
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d2h10s&theme=dracula&margin-w=10&no-frame=true"><br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d2h10s&theme=dracula&margin-w=10&no-frame=true&row=2&column=4" style="float: left; width: 44%;"><br>
 <!--팔로워, 깃허브, 유튭, 백준 링크-->
   <img src="https://img.shields.io/github/followers/d2h10s?style=social">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fd2h10s&count_bg=%23D93A7C&title_bg=%23141321&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"></a>
   <a href="https://www.youtube.com/channel/UCrCuBAFLYp71GHzOWqGeUUQ/"><img src="http://img.shields.io/badge/-YouTube-FF0000?style=plastic&logo=YouTube"></a>
   <a href="https://www.acmicpc.net/user/d2h10s"><img src="http://img.shields.io/badge/-Baekjoon-0076C0?style=plastic"></a>
 </p>
-
+<br><br>
 <h1 align="center">
   :hammer_and_wrench:Tech Stack:hammer_and_wrench:<br>
   Techs that I've used at least once
