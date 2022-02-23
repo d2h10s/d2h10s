@@ -15,13 +15,14 @@
   <a href="https://solved.ac/profile/d2h10s">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=d2h10s" style="float: left; width: 39%;">
   </a>
+  <a href="https://opgc.me/#/users/d2h10s" target="_blank"><img src="https://api.opgc.me/githubs/users/d2h10s/tag/?border=normal" style="float: left; width: 49%;"/></a><br>
 <!--깃허브 스트릭 카드-->
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=d2h10s&theme=dark" style="float: left; width: 49%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=d2h10s&theme=dark" style="width: 49%;">
   </a><br>
 <!--트로피 카드-->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=d2h10s&theme=dracula&margin-w=10&margin-h=10&no-frame=true&row=2&column=4" style="float: center; width: 60%;">
+    <img src="https://github-profile-trophy.vercel.app/?username=d2h10s&theme=dracula&margin-w=10&margin-h=10&no-frame=true&row=2&column=4" style="float: center; width: 48%;">
   </a><br>
 <!--팔로워, 깃허브, 유튭, 백준 링크-->
   <img src="https://img.shields.io/github/followers/d2h10s?style=social">
@@ -40,6 +41,7 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=d2h10s">
   </a>
 <!--START_SECTION:waka-->
+  
 <!--END_SECTION:waka-->
 </details>
 </p>
