@@ -35,11 +35,13 @@
     <img src="http://img.shields.io/badge/-Baekjoon-0076C0?style=plastic">
   </a><br>
 <!--Waka Time-->
+<details align="center"><summary><b>Coding Time</b></summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=d2h10s">
   </a>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+</details>
 </p>
 <br><br>
 <h1 align="center">
