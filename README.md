@@ -9,7 +9,7 @@
   </a>
 <!--깃허브 사용 언어 랭킹 카드-->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d2h10s&langs_count=10&exclude_repo=swing_robot&hide=tex,html,javascript,css,scss,PureBasic,Jupyter Notebook&theme=radical&layout=compact" style="float: left; width: 39%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d2h10s&langs_count=10&exclude_repo=swing_robot&hide=tex,html,javascript,css,scss,PureBasic,Jupyter%20Notebook&theme=radical&layout=compact" style="float: left; width: 39%;">
   </a><br>
 <!--백준 카드-->
   <a href="https://solved.ac/profile/d2h10s">
